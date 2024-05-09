@@ -36,7 +36,8 @@
           "ios": {
             "useFrameworks": "static",
             "deploymentTarget": "14.1",
-            "unstable_networkInspector": true
+            "unstable_networkInspector": true,
+            "newArchEnabled": true
           },
 
           "android": {
@@ -45,7 +46,8 @@
             "minSdkVersion": 24,
             "buildToolsVersion": "34.0.0",
             "kotlinVersion": "1.8.0",
-            "unstable_networkInspector": true
+            "unstable_networkInspector": true,
+            "newArchEnabled": true
           }
         }
       ]
